@@ -1,6 +1,6 @@
-# retro_calc
+# poor_poor_calc_95
 
-calc like windows 95　style
+calc like windows 95 style
 
 ## Getting Started
 
